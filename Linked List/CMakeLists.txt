@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.0)
-project(BST)
+project(Linked_List)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(BST main.cpp)
+add_executable(Linked_List main.cpp)
